@@ -1,4 +1,33 @@
 # python-ideas
-Python 3 snippets and rough ideas
 
-This is a test edit for the tutorial
+------------------
+LEARN
+------------------
+> Standard library
+    os
+    sys
+    logging
+    datetime
+    time
+    re (regular expressions)
+    math
+    decimal
+    itertools
+    functools
+  
+> 3rd party modules
+    PyQt // wxpython
+    requests
+    numpy
+    SQLalchemy // sqlite
+    
+> 3rd party frameworks
+    Flask
+    Django
+    pygame
+    Panda
+    
+    
+------------------
+DO
+------------------
